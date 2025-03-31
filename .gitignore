@@ -1,0 +1,12 @@
+# Archivos de sistema de macOS
+.DS_Store
+._*
+
+# Cachés del editor (VS Code)
+.vscode/
+
+# Archivos innecesarios o temporales
+*.log
+*.json~
+*.cache
+Thumbs.db
