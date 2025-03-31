@@ -406,7 +406,7 @@ label.nav__controls__button input {
     transition: .2s;
 }
 
-.active .note__image {
+.sheet__measure__note.active .note__image {
     opacity: 1;
     visibility: visible;
 }
